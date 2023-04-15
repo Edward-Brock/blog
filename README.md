@@ -8,6 +8,7 @@
 
 ### 4月
 
+- [2023-04-15 将 WordPress 文章转为 Markdown 格式](/markdown/wordpress-%E6%96%87%E7%AB%A0%E8%BD%AC%E4%B8%BA-markdown-%E6%A0%BC%E5%BC%8F.md)
 - [2023-04-11 替换 Gravatar 头像](/markdown/%E6%9B%BF%E6%8D%A2-gravatar-%E5%A4%B4%E5%83%8F.md)
 - [2023-04-05 Docker Mysql 8 自动定时备份](/markdown/docker-mysql-8-%E8%87%AA%E5%8A%A8%E5%AE%9A%E6%97%B6%E5%A4%87%E4%BB%BD.md)
 
